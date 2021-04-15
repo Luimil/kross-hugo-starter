@@ -116,10 +116,6 @@ clients_logo_slider:
     URL: "/images/aguabrial.png"
   - logo: "/images/bureau-aiguemarine.jpg"
     URL: "/images/bureau-aiguemarine.jpg"
-  - logo: ''
-    URL: ''
-  - logo: ''
-    URL: ''
   title: Mes loulous
 blog:
   enable: true
