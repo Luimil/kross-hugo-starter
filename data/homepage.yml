@@ -111,7 +111,7 @@ clients_logo_slider:
   enable: true
   item:
   - logo: ''
-    URL: ''
+    URL: "/images/caeleme.png"
   - logo: ''
     URL: ''
   - logo: ''
