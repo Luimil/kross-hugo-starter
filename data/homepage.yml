@@ -110,8 +110,8 @@ testimonial:
 clients_logo_slider:
   enable: true
   item:
-  - logo: "/images/caeleme.png"
-    URL: "/images/caeleme.png"
+  - logo: "/images/parlons-cash-3.jpg"
+    URL: "/images/parlons-cash-3.jpg"
   - logo: "/images/aguabrial.png"
     URL: "/images/aguabrial.png"
   - logo: "/images/bureau-aiguemarine.jpg"
