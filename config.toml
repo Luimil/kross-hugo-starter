@@ -13,7 +13,7 @@ name = "Portfolio"
 weight = 3
 [[menu.main]]
 URL = "blog"
-name = "Blog"
+name = "News"
 weight = 2
 [params]
 address = "125/A, CA Commercial Area, California, USA"

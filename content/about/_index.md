@@ -7,6 +7,7 @@ author_signature: Marie Delègue
 menu:
   main:
     URL: about
+    name: Marie
     weight: 1
 
 ---
