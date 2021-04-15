@@ -6,7 +6,7 @@ about:
   content: Lalalala je change les textes lalalala
   button:
     enable: true
-    label: know more
+    label: Mais encore ?
     URL: about
 skill:
   enable: true
