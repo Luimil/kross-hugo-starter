@@ -112,8 +112,8 @@ clients_logo_slider:
   item:
   - logo: "/images/parlons-cash-3.jpg"
     URL: "/images/parlons-cash-3.jpg"
-  - logo: "/images/aguabrial.png"
-    URL: "/images/aguabrial.png"
+  - logo: "/images/parlons-cash-3.jpg"
+    URL: "/images/parlons-cash-3.jpg"
   - logo: "/images/bureau-aiguemarine.jpg"
     URL: "/images/bureau-aiguemarine.jpg"
   title: Mes loulous
