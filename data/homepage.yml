@@ -114,8 +114,8 @@ clients_logo_slider:
     URL: "/images/parlons-cash-3.jpg"
   - logo: "/images/parlons-cash-3.jpg"
     URL: "/images/parlons-cash-3.jpg"
-  - logo: "/images/bureau-aiguemarine.jpg"
-    URL: "/images/bureau-aiguemarine.jpg"
+  - logo: "/images/parlons-cash-1.jpg"
+    URL: "/images/parlons-cash-1.jpg"
   title: Mes loulous
 blog:
   enable: true
