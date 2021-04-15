@@ -110,7 +110,7 @@ testimonial:
 clients_logo_slider:
   enable: true
   item:
-  - logo: ''
+  - logo: "/images/caeleme.png"
     URL: "/images/caeleme.png"
   - logo: ''
     URL: "/images/aguabrial.png"
@@ -120,6 +120,7 @@ clients_logo_slider:
     URL: ''
   - logo: ''
     URL: ''
+  title: Mes loulous
 blog:
   enable: true
   title: Blogs
